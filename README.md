@@ -11,6 +11,10 @@
 
 准备数据集如目录（**./data/**）中所示。
 
+## Model
+
+https://github.com/MagicianQi/albert-chinese-ner/releases/download/v0.1/albert_base_zh.zip
+
 ## train and eval
 
     python albert_ner_train_eval.py \
